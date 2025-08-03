@@ -1,0 +1,19 @@
+@use '../utils/variables' as v;
+
+
+.section_success {
+    margin: 46px 0;
+    background-image: url('/images/bg_pc.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+
+.title  {
+color: v.$main-black;
+text-align: center;
+margin-bottom: 72px;
+font-size: 48px;
+line-height: 41px;
+letter-spacing: 1.17px;
+}

@@ -16,4 +16,9 @@ margin-bottom: 72px;
 font-size: 48px;
 line-height: 41px;
 letter-spacing: 1.17px;
+
+
+@media screen and (width <= 767px) {
+    font-size: 36px;
+}
 }
